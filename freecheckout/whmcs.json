@@ -1,0 +1,17 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "freecheckout",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Free Checkout",
+    "tagline": "Allow Free Checkout No Credit Card Need."
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
